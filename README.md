@@ -9,7 +9,8 @@ Projeto desenvolvido durante a **20ª edição do NLW (Next Level Week)** da **R
 ## 🔧 Backend
 
 **Tecnologias**  
-- Node.js (TypeScript nativo – experimental strip types)  
+- Node.js (TypeScript nativo – experimental strip types)
+- Gemini 2.5 Flash
 - Fastify  
 - PostgreSQL + pgvector  
 - Drizzle ORM  
